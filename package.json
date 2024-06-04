@@ -1,0 +1,11 @@
+{
+  "name": "powdemo",
+  "version": "1.0.0",
+  "description": "```\r POWdemo\r ├─ .idea\r │  ├─ modules.xml\r │  ├─ POWdemo.iml\r │  └─ workspace.xml\r ├─ go.mod\r ├─ go.sum\r ├─ main.go\r └─ pow\r    ├─ blockchain.go\r    ├─ miner.go\r    └─ proof.go",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
