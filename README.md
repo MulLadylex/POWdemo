@@ -14,3 +14,12 @@ POWdemo
    └─ proof.go
 
 ```
+Installation:
+```shell
+git clone https://github.com/MulLadylex/POWdemo.git
+```
+
+Usage:
+```go
+go run main.go
+```
